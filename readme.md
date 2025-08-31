@@ -17,7 +17,6 @@ Full-stack developer passionate.
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white)
 
 ### 🗄️ Databases / ORM
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,7 +34,6 @@ Full-stack developer passionate.
 ![Biome.js](https://img.shields.io/badge/Biome.js-0F172A?style=for-the-badge&logo=biome&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
-
 ### 🛠️ Tools / Services
 ![AI SDK](https://img.shields.io/badge/AI_SDK-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 ![Better Auth](https://img.shields.io/badge/BetterAuth-1E293B?style=for-the-badge&logo=lock&logoColor=white)
@@ -51,4 +49,4 @@ Full-stack developer passionate.
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/arnaud-orban-a64417286/)  
-- [Email](arnaudorban.pro@gmail.com)
+- [Email](mailto:arnaudorban.pro@gmail.com)
